@@ -1,0 +1,66 @@
+{
+  "title": "Xact Manners",
+  "questions": [
+    {
+      "questionText": "Never assume in life.. Don't think that carrot big because carrot big leaf, because small leaf carrot big not leaf big size.",
+      "duration": 30,
+      "answers": [
+        { "answerText": "Yes, true.", "isCorrect": true },
+        { "answerText": "Not true.", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Some time... On way to successful.... First of steps of all of the steps to being successful steps are hardest of all of the steps to successing. Steps.",
+      "duration": 40,
+      "answers": [
+        { "answerText": "Very true.", "isCorrect": true },
+        { "answerText": "No.", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Just because everyone person going in one directional way. Does not meaning you are going to the directional direction to which every person which is going in. Go in your own indepenedent on which way you are going in.",
+      "duration": 60,
+      "answers": [
+        { "answerText": "No.", "isCorrect": false },
+        { "answerText": "Yes.", "isCorrect": false },
+        { "answerText": "Yes. (directionally)", "isCorrect": true },
+        { "answerText": "Probably.", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Some time in live. Everything pencil and everything smoothly with pencil is going smootly. But then... Unexpected happening it is happening unexpectedly in life. The importance thing to do is to make solution to problem so problem is solutioned problem solution problem.",
+      "duration": 40,
+      "answers": [
+        { "answerText": "0̸̺̺̞͊͆̚1̵̞̠͙̒͌0̸̻̈́̒͜͠0̸̫͖̼̽̐͆0̵͍̝͕͑͌̿0̴̢͎͑̀̕͜1̸̻̠̦͋̽1̵̟̻͔͐̈́͠ 0̵̼̟̓͛͘1̵͇͓̺́̓̽1̸͍͓̪̿̀̕0̴̠͎̘͑̽̀1̴͕͓̓͌͠0̴͔̟̔͊͒0̴̟̟͕̐͛0̵͉̫͉̓͌͐ 0̸̘͍̻͑͘̚1̴͕͎̻͆͒1̵̞͙͉͋̾0̸̘͇̀̀͝0̸͉̦͖̾͘͝0̴̡̻͖̐̔̓0̵̻̺̼̈́͑͌1̴͔͍̼̒͘͠ 0̸̞̫̪̒͐͘1̸̦͍͚̓̀͝1̴̙̼̪͋͛̓0̴͍̦̦͊̓͠1̸͙͇͇͘͝0̵͍̞̠͆͊͠0̸̘̘͆͊͒͜1̸̪̙͔͐͝͝ 0̵̢̘͚̈́͋̚1̴͖̞͙̀̈́͝1̸̡͖̙͑̈́̚1̸̻̟̟̓͒͝0̸͍̪̓̚0̴̢͖̘͌͑̕1̴̪͉̦́͝͠0̸͉̦̟͌̈́̈́ 0̵̪͇̠̀͑͠0̵̘̙́̕͜1̸͚͕͔̀́0̴͙̼͖͋̓͝1̸̼̫͎̈́͒͒1̸̠͙̼͊̽̓1̵͔̫̟͛͠͠0̸̠̺͍̾̾", "isCorrect": false },
+        { "answerText": "No.", "isCorrect": false },
+        { "answerText": "It's a possibility. All possibilities are welcome here.", "isCorrect": true }
+      ]
+    },
+    {
+      "questionText": "Chair.",
+      "duration": 999,
+      "answers": [
+        { "answerText": "Chair.", "isCorrect": true },
+        { "answerText": "Floccinaucinihilipilification.", "isCorrect": false },
+        { "answerText": "Why?", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "The more you know are knowing what you are knowing and more your brain size in your head size big. The less you need to say to talk in argument with other peoples with smaller brain head shouting.",
+      "duration": 100,
+      "answers": [
+        { "answerText": "I'm afraid not.", "isCorrect": false },
+        { "answerText": "But of course.", "isCorrect": false },
+        { "answerText": "Chair.", "isCorrect": true }
+      ]
+    },
+    {
+      "questionText": "Goodbye!",
+      "duration": 10,
+      "answers": [
+        { "answerText": "Bye-bye.", "isCorrect": false },
+        { "answerText": "Hello. (reverse)", "isCorrect": true }
+      ]
+    }
+  ]
+}

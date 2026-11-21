@@ -1,0 +1,89 @@
+{
+    "title": "Quick Maths",
+    "questions": [
+        {
+            "questionText": "4 + 4",
+            "duration": 10,
+            "answers": [
+                {
+                    "answerText": "2",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "6",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "8",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "4",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": "8 + 5",
+            "duration": 10,
+            "answers": [
+                {
+                    "answerText": "12",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "13",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "14",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": "2 + 2",
+            "duration": 5,
+            "answers": [
+                {
+                    "answerText": "2",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "4",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "44",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": "20 + 20 + 20 + 7",
+            "duration": 20,
+            "answers": [
+                {
+                    "answerText": "6",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "7",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "67",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "60",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "77",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Video Games Trivia",
+    "questions": [
+        {
+            "questionText": "What is the most powerful weapon in Terraria?",
+            "duration": 10,
+            "answers": [
+                {
+                    "answerText": "Meowmere",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Zenith",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "Star Wrath",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Terra Blade",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Copper Shortsword",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": "How can you get Chorus Fruit in Minecraft without Silk Touch?",
+            "duration": 30,
+            "answers": [
+                {
+                    "answerText": "By breaking the plant with an axe",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "By using water buckets",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "By shooting it with arrows",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "questionText": "What happens if you do not go to sleep in Stardew Valley by 2:00 AM?",
+            "duration": 20,
+            "answers": [
+                {
+                    "answerText": "Monsters attack your farmhouse",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Your crops wither instantly",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "You pass out and lose some energy and gold",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "Nothing, you can stay awake forever",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": "What is the last name of the Mario brothers?",
+            "duration": 5,
+            "answers": [
+                {
+                    "answerText": "Mario",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "Luigi",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Bros",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Jumpman",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

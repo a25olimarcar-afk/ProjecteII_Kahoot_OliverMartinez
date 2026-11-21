@@ -1,0 +1,50 @@
+
+{
+    "title": "General Knowledge",
+    "questions": [
+        {
+            "questionText": "What is the capital of France?",
+            "duration": 10,
+            "answers": [
+                {
+                    "answerText": "Paris",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "Rome",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Madrid",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Lisbon",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionText": "Which planet is known as the Red Planet?",
+            "duration": 20,
+            "answers": [
+                {
+                    "answerText": "Venus",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Mars",
+                    "isCorrect": true
+                },
+                {
+                    "answerText": "Jupiter",
+                    "isCorrect": false
+                },
+                {
+                    "answerText": "Saturn",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}
